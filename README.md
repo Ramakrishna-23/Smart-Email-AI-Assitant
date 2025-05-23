@@ -16,19 +16,9 @@ Core Features:
 
 Tech Stack:
 
-Frontend: JavaScript, HTML/CSS, Chrome Extension APIs
+Frontend: React, HTML/CSS, Chrome Extension APIs.
 
-Backend/API Integration: Google Gemini API
+Backend/API Integration: Java, SpringBoot & Google Gemini API
 
-Authentication: OAuth 2.0 (for Google login if required)
-
-Use Cases:
-
-Busy professionals responding to high volumes of email
-
-Non-native speakers seeking fluent replies
-
-Customer support agents crafting personalized responses
-
-Job seekers or recruiters managing outreach emails
+Authentication: OAuth 2.0 
 
